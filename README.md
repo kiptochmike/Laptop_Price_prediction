@@ -21,10 +21,10 @@ Whether you're a tech enthusiast, a consumer researching a new laptop purchase, 
 ## Project Structure
 To make navigation seamless, the project is organized into different sections:
 
-*Data: Explore the dataset used for training and testing the model.
-*Installation: Follow step-by-step instructions to set up the project locally.
-*Model Training: Dive into the notebook explaining how the predictive model is trained.
-*Evaluation: Understand how the model's performance is evaluated.
-*Dependencies: Check out the list of libraries required to run the project.
-*Contributing: Interested in contributing? Find guidelines in this section.
-*License: Understand the terms under which this project is licensed.
+* Data: Explore the dataset used for training and testing the model.
+* Installation: Follow step-by-step instructions to set up the project locally.
+* Model Training: Dive into the notebook explaining how the predictive model is trained.
+* Evaluation: Understand how the model's performance is evaluated.
+* Dependencies: Check out the list of libraries required to run the project.
+* Contributing: Interested in contributing? Find guidelines in this section.
+* License: Understand the terms under which this project is licensed.
