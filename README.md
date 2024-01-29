@@ -1,4 +1,3 @@
-# phase2groupproject
 # Laptop Price Prediction
 ## Overview
 This project focuses on predicting laptop prices using machine learning techniques. By analyzing various laptop features such as RAM, weight, display properties, and brand, we aim to build a predictive model that can estimate the price of a laptop.
