@@ -1,4 +1,6 @@
 # Laptop Price Prediction
+![d711b3229f91221110ea1bc7ca20847f](https://github.com/mbuvenzuve/phase2groupproject/blob/main/online-shopping-and-online-store-concept-laptop-with-screen-buy-illustration-icon-vector.jpg)
+
 ## Overview
 This project focuses on predicting laptop prices using machine learning techniques. By analyzing various laptop features such as RAM, weight, display properties, and brand, we aim to build a predictive model that can estimate the price of a laptop.
 Project Overview
