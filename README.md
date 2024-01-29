@@ -8,13 +8,13 @@ The primary objective of this project is to develop a predictive model capable o
 ## Key Features
 Our predictive model takes into account a wide range of laptop features, including but not limited to:
 
-*RAM: The amount of memory available for processing tasks.
-*Weight: The physical weight of the laptop, impacting portability.
-*Processor: The type and performance of the central processing unit (CPU).
-*Display Characteristics: Features such as touchscreen capability, IPS technology, and Pixels Per Inch (PPI).
-*Storage: The presence and capacity of both Hard Disk Drives (HDD) and Solid State Drives (SSD).
-*Graphics Card: The type and power of the laptop's graphics processing unit (GPU).
-*Operating System: The software environment that facilitates user interaction.
+* RAM: The amount of memory available for processing tasks.
+* Weight: The physical weight of the laptop, impacting portability.
+* Processor: The type and performance of the central processing unit (CPU).
+* Display Characteristics: Features such as touchscreen capability, IPS technology, and Pixels Per Inch (PPI).
+* Storage: The presence and capacity of both Hard Disk Drives (HDD) and Solid State Drives (SSD).
+* Graphics Card: The type and power of the laptop's graphics processing unit (GPU).
+* Operating System: The software environment that facilitates user interaction.
 ## How to Use
 Whether you're a tech enthusiast, a consumer researching a new laptop purchase, or a developer curious about machine learning applications, this project is designed for you. The Usage section in the README provides clear instructions on how to utilize the predictive model and make informed laptop price predictions.
 
